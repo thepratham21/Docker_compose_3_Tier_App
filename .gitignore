@@ -22,3 +22,6 @@ mysql_data/
 .vscode/
 .idea/
 *.swp
+
+.env
+
